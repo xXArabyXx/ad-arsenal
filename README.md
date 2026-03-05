@@ -98,8 +98,6 @@ ad-arsenal/
 
 Created by **[@abdelrahman_alaraby](https://www.linkedin.com/in/abdelrahman-alaraby/)**
 
-Content sourced and enhanced from [AD Attack Architecture Map v1.1](https://kypvas.github.io/ad_attack_architecture/)
-
 ## ⚠️ Disclaimer
 
 This tool is intended for **authorized penetration testing** and **educational purposes** only. Unauthorized access to computer systems is illegal. Always obtain proper authorization before testing.
