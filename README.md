@@ -2,7 +2,9 @@
 
 An interactive, self-contained **Active Directory Attack Arsenal** for penetration testing teams. All 31 attack categories with hundreds of ready-to-use commands — fill in your target variables once and every command updates instantly.
 
-![Active Directory Arsenal](logo.png)
+![Dashboard Overview](screenshot01.png)
+
+![Commands with Live Variable Injection](screenshot02.png)
 
 ## ✨ Features
 
